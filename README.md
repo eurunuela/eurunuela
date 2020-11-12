@@ -25,7 +25,7 @@ I am an active contributor to [tedana](https://github.com/ME-ICA/tedana), a libr
 
 💬 Ask me about deconvolution, tensor decomposition, tedana, physiopy or just about anything. I am always looking to learn new things!
 
-📫 How to reach me: you can email me, DM me on Twitter.
+📫 How to reach me: you can email me or DM me on Twitter.
 
 😄 Pronouns: he/him
 
