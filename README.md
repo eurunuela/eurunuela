@@ -21,7 +21,7 @@ I am an active contributor to [tedana](https://github.com/ME-ICA/tedana), a libr
 
 🔭 I am currently working on methods for the spatio-temporal deconvolution of fMRI data, both single- and multi-echo, and tensor decomposition methods for the denoising of multi-echo fMRI data. I am also an active contributor to tedana and the physiopy suite.
 
-🌱 I’m currently learning how to make all things BIDS, how to make an awesome Python packge on GitHub and how to make the most of [[[RoamResearch]]](https://roamresearch.com).
+🌱 I’m currently learning how to make all things BIDS, how to make an awesome Python package on GitHub and how to make the most of [[[RoamResearch]]](https://roamresearch.com).
 
 💬 Ask me about deconvolution, tensor decomposition, tedana, physiopy or just about anything. I am always looking to learn new things!
 
