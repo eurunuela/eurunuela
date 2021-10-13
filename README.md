@@ -19,7 +19,7 @@ I am a biomedical engineer and PhD student at the Basque Center on Cognition, Br
 
 I am an active contributor to [tedana](https://github.com/ME-ICA/tedana), a library for denoising multi-echo fMRI data, and the [physiopy suite](https://github.com/physiopy), a set of tools to work on your physiological data as well as making it BIDS compatible. I recently released [Rica](https://github.com/ME-ICA/rica), a tool written in React to manually classify ICA components obtained with tedana and aroma. I am also the chair of [Brainhack Donostia 2020](https://brainhack-donostia.github.io).
 
-🔭 I am currently working on methods for the spatio-temporal deconvolution of fMRI data, both single- and multi-echo, and tensor decomposition methods for the denoising of multi-echo fMRI data. I am also an active contributor to tedana and the physiopy suite.
+🔭 I am currently working on methods for the spatio-temporal deconvolution of fMRI data, both single- and multi-echo, and tensor decomposition methods for the denoising of multi-echo fMRI data.
 
 🌱 I’m currently learning how to make all things BIDS, how to make an awesome Python package on GitHub and how to make the most of [[[RoamResearch]]](https://roamresearch.com).
 
