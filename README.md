@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a biomedical engineer and PhD student at the Basque Center on Cognition, Brain and Language under the supervision of [Dr. César Caballero-Gaudes](https://scholar.google.com/citations?user=EGyN5_YAAAAJ&hl=en&oi=ao) and [Dr. Miguel Ángel Veganzones](https://scholar.google.es/citations?user=8o-d6B4AAAAJ&hl=en). I'm primarily interested in optimization problems and applying them to functional MRI data (fMRI).
+I am a biomedical engineer and PhD student at the Basque Center on Cognition, Brain and Language under the supervision of [Dr. César Caballero-Gaudes](https://scholar.google.com/citations?user=EGyN5_YAAAAJ&hl=en&oi=ao) and [Dr. Miguel Ángel Veganzones](https://scholar.google.es/citations?user=8o-d6B4AAAAJ&hl=en). I'm primarily interested in inverse problems and applying them to functional MRI data (fMRI).
 
 I am an active contributor to [tedana](https://github.com/ME-ICA/tedana), a library for denoising multi-echo fMRI data, and the [physiopy suite](https://github.com/physiopy), a set of tools to work on your physiological data as well as making it BIDS compatible. I recently released [Rica](https://github.com/ME-ICA/rica), a tool written in React to manually classify ICA components obtained with tedana and aroma. I am also the chair of [Brainhack Donostia 2020](https://brainhack-donostia.github.io).
 
