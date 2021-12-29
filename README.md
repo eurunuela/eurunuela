@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **<a href="mailto:e.urunuela@bcbl.eu">email me</a> or <a href="https://twitter.com/eurunuela" target="blank">DM on Twitter</a>**.
 
-- ⚡ Fun fact: **I'm a big fan of photography and alt rock music. I enjoy the occasional sunset photo and playing the guitar or the bass.**
+- ⚡ Fun fact: **I'm a big fan of photography and alt-rock music. I enjoy the occasional sunset photo and playing the guitar or the bass.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
