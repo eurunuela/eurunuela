@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Eneko <img style="height:40px" src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif"></h1>
+<h1 align="center">Hi! I'm Eneko <img style="height:1em" src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif"></h1>
 <h3 align="center">A Ph.D. candidate at the Basque Center on Cognition, Brain and Language that wants to make healthcare more accessible to everyone.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurunuela&label=Profile%20views&color=0e75b6&style=flat" alt="eurunuela" /> </p>
