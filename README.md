@@ -1,32 +1,29 @@
-### Hi there, I'm Eneko 👋
+<h1 align="center">Hi 👋, I'm Eneko</h1>
+<h3 align="center">A PhD candidate at the Basque Center on Cognition, Brain and Language. I want to make healthcare more accessible to everyone.</h3>
 
-<!--
-**eurunuela/eurunuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eurunuela&label=Profile%20views&color=0e75b6&style=flat" alt="eurunuela" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/eurunuela" target="blank"><img src="https://img.shields.io/twitter/follow/eurunuela?logo=twitter&style=for-the-badge" alt="eurunuela" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Rica](https://github.com/ME-ICA/rica)
 
-I am a biomedical engineer and PhD student at the Basque Center on Cognition, Brain and Language under the supervision of [Dr. César Caballero-Gaudes](https://scholar.google.com/citations?user=EGyN5_YAAAAJ&hl=en&oi=ao) and [Dr. Miguel Ángel Veganzones](https://scholar.google.es/citations?user=8o-d6B4AAAAJ&hl=en). I'm primarily interested in inverse problems and applying them to functional MRI data (fMRI).
+- 🌱 I’m currently learning **deep learning, React and Remix, Tailwind, and how to make the most of [[Roam Research]].**
 
-I am an active contributor to [tedana](https://github.com/ME-ICA/tedana), a library for denoising multi-echo fMRI data, and the [physiopy suite](https://github.com/physiopy), a set of tools to work on your physiological data as well as making it BIDS compatible. I recently released [Rica](https://github.com/ME-ICA/rica), a tool written in React to manually classify ICA components obtained with tedana and aroma. I am also the chair of [Brainhack Donostia 2020](https://brainhack-donostia.github.io).
+- 👯 I’m looking to collaborate on [aroma](https://github.com/ME-ICA/aroma)
 
-🔭 I am currently working on methods for the spatio-temporal deconvolution of fMRI data, both single- and multi-echo, and tensor decomposition methods for the denoising of multi-echo fMRI data.
+- 💬 Ask me about **inverse problems, tensor decomposition, multi-echo fMRI or just about anything. I am always looking to learn new things!**
 
-🌱 I’m currently learning how to make all things BIDS, how to make an awesome Python package on GitHub and how to make the most of [[[RoamResearch]]](https://roamresearch.com).
+- 📫 How to reach me **e.urunuela@bcbl.eu or DM on Twitter**
 
-💬 Ask me about deconvolution, tensor decomposition, tedana, physiopy or just about anything. I am always looking to learn new things!
+- ⚡ Fun fact **I am a big fan of photography and alt rock music. I enjoy the occasional sunset photo and playing the guitar or the bass.**
 
-📫 How to reach me: you can email me or DM me on Twitter.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/eurunuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eurunuela" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eneko-urunuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneko-urunuela" height="30" width="40" /></a>
+</p>
 
-😄 Pronouns: he/him
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
-⚡ Fun fact: I am a big fan of photography and rock music. I enjoy the occasional sunset photo and playing the guitar or the bass.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eurunuela&show_icons=true&locale=en" alt="eurunuela" /></p>
