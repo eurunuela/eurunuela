@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on [aroma](https://github.com/ME-ICA/aroma).
 
-- 💬 Ask me about **inverse problems, tensor decomposition, multi-echo fMRI or just about anything. I am always looking to learn new things!**
+- 💬 Ask me about **inverse problems, tensor decomposition, multi-echo fMRI or just about anything. I'm always looking to learn new things!**
 
 - 📫 How to reach me: **e.urunuela@bcbl.eu or DM on Twitter**.
 
-- ⚡ Fun fact: **I am a big fan of photography and alt rock music. I enjoy the occasional sunset photo and playing the guitar or the bass.**
+- ⚡ Fun fact: **I'm a big fan of photography and alt rock music. I enjoy the occasional sunset photo and playing the guitar or the bass.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
