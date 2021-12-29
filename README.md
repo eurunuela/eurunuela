@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/eurunuela" target="blank"><img src="https://img.shields.io/twitter/follow/eurunuela?logo=twitter&style=for-the-badge" alt="eurunuela" /></a> </p>
 
-- 🔭 I’m currently working on [Rica](https://github.com/ME-ICA/rica)
+- 🔭 I’m currently working on [Rica](https://github.com/ME-ICA/rica).
 
 - 🌱 I’m currently learning **deep learning, React and Remix, Tailwind, and how to make the most of [[Roam Research]].**
 
-- 👯 I’m looking to collaborate on [aroma](https://github.com/ME-ICA/aroma)
+- 👯 I’m looking to collaborate on [aroma](https://github.com/ME-ICA/aroma).
 
 - 💬 Ask me about **inverse problems, tensor decomposition, multi-echo fMRI or just about anything. I am always looking to learn new things!**
 
-- 📫 How to reach me **e.urunuela@bcbl.eu or DM on Twitter**
+- 📫 How to reach me: **e.urunuela@bcbl.eu or DM on Twitter**.
 
-- ⚡ Fun fact **I am a big fan of photography and alt rock music. I enjoy the occasional sunset photo and playing the guitar or the bass.**
+- ⚡ Fun fact: **I am a big fan of photography and alt rock music. I enjoy the occasional sunset photo and playing the guitar or the bass.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
