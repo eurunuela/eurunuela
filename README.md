@@ -1,8 +1,6 @@
 <h1 align="center">Hi! I'm Eneko <img style="height:1em" src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif"></h1>
 <h3 align="center">A Ph.D. candidate at the Basque Center on Cognition, Brain and Language that wants to make healthcare more accessible to everyone.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eurunuela&label=Profile%20views&color=0e75b6&style=flat" alt="eurunuela" /> </p>
-
 <p align="left"> <a href="https://twitter.com/eurunuela" target="blank"><img src="https://img.shields.io/twitter/follow/eurunuela?logo=twitter&style=for-the-badge" alt="eurunuela" /></a> </p>
 
 - 🔭 I’m currently working on [Rica](https://github.com/ME-ICA/rica).
