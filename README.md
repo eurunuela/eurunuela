@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **deep learning, React and Remix, Tailwind, and how to make the most of [[Roam Research]].**
 
-- 👯 I’m looking to collaborate on [aroma](https://github.com/ME-ICA/aroma).
+- 👯 I’m looking to collaborate on [aroma](https://github.com/ME-ICA/aroma) and [Rica](https://github.com/ME-ICA/rica).
 
 - 💬 Ask me about **inverse problems, tensor decomposition, multi-echo fMRI or just about anything. I'm always looking to learn new things!**
 
