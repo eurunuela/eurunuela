@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/eurunuela" target="blank"><img src="https://img.shields.io/twitter/follow/eurunuela?logo=twitter&style=for-the-badge" alt="eurunuela" /></a> </p>
 
-- 🔭 I’m currently working on [Rica](https://github.com/ME-ICA/rica).
+- 🔭 I’m currently working on [Rica](https://github.com/ME-ICA/rica), [pySPFM](https://github.com/eurunuela/pySPFM), [splora](https://github.com/eurunuela/splora) and [tedana](https://github.com/ME-ICA/tedana).
 
 - 🌱 I’m currently learning **deep learning, React and Remix, Tailwind, and how to make the most of [[Roam Research]].**
 
