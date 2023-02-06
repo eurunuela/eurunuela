@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Rica](https://github.com/ME-ICA/rica), [pySPFM](https://github.com/eurunuela/pySPFM), [splora](https://github.com/eurunuela/splora) and [tedana](https://github.com/ME-ICA/tedana).
 
-- 🌱 I’m currently learning **deep learning, React and Remix, Tailwind, and how to make the most of [[Roam Research]].**
+- 🌱 I’m currently learning **deep learning, React and Remix, Tailwind, and how to make the most of [Tana](https://tana.inc/).**
 
 - 👯 I’m looking to collaborate on [aroma](https://github.com/ME-ICA/aroma) and [Rica](https://github.com/ME-ICA/rica).
 
