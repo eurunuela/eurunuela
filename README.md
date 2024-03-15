@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **inverse problems, tensor decomposition, multi-echo fMRI or just about anything. I'm always looking to learn new things!**
 
-- 📫 How to reach me: <a href="https://twitter.com/eurunuela" target="blank">DM on Twitter</a>**.
+- 📫 How to reach me: <a href="https://twitter.com/eurunuela" target="blank">DM on Twitter</a>.
 
 - ⚡ Fun fact: **I'm a big fan of photography and alt-rock music. I enjoy the occasional sunset photo and playing the guitar or the bass.**
 
