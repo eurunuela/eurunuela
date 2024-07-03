@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Eneko <img style="height:1em" src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif"></h1>
-<h3 align="center">A Ph.D. candidate at the Basque Center on Cognition, Brain and Language that wants to make healthcare more accessible to everyone.</h3>
+<h3 align="center">I have a Ph.D. in AI for brain imaging, and am working to make healthcare more accessible to everyone.</h3>
 
 <p align="left"> <a href="https://twitter.com/eurunuela" target="blank"><img src="https://img.shields.io/twitter/follow/eurunuela?logo=twitter&style=for-the-badge" alt="eurunuela" /></a> </p>
 
