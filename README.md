@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Rica](https://github.com/ME-ICA/rica), [pySPFM](https://github.com/eurunuela/pySPFM), [splora](https://github.com/eurunuela/splora) and [tedana](https://github.com/ME-ICA/tedana).
 
-- 🌱 I’m currently learning **deep learning, React and Remix, Tailwind, and how to make the most of [Tana](https://tana.inc/).**
+- 🌱 I’m currently learning **deep learning, and how to make the most of personal knowledge management tool [Tana](https://tana.inc/).**
 
-- 👯 I’m looking to collaborate on [aroma](https://github.com/ME-ICA/aroma) and [Rica](https://github.com/ME-ICA/rica).
+- 👯 I’m looking to collaborate on deep learning models for medical imaging.
 
-- 💬 Ask me about **inverse problems, tensor decomposition, multi-echo fMRI or just about anything. I'm always looking to learn new things!**
+- 💬 Ask me about **inverse problems, graph neural networks, multi-echo fMRI or just about anything. I'm always looking to learn new things!**
 
 - 📫 How to reach me: <a href="https://twitter.com/eurunuela" target="blank">DM on Twitter</a>.
 
