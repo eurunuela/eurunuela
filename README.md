@@ -4,7 +4,8 @@ Eneko</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurunuela&label=Profile%20views&color=0e75b6&style=flat" alt="eurunuela" /> </p>
 
-[![@eurunuela|32x32](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/twitter.svg)](https://x.com/eurunuela
+<a href="https://twitter.com/eurunuela" class="twitter-follow-button" data-show-count="false">Follow me on Twitter @eurunuela</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
