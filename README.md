@@ -6,7 +6,7 @@ Eneko</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently a researcher at <a href="https://ucalgary.ca/labs/miplab/home" target="blank">Medical Image Processing and Machine Learning lab - University of Calgary</a>.
+- 🔭 I’m currently a postdoctoral researcher at <a href="https://ucalgary.ca/labs/miplab/home" target="blank">Medical Image Processing and Machine Learning lab - University of Calgary</a>.
 
 - 🌱 I’m developing machine learning models to predict tissue outcome on acute ischemic stroke patients.
 
