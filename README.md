@@ -4,7 +4,11 @@ Eneko</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurunuela&label=Profile%20views&color=0e75b6&style=flat" alt="eurunuela" /> </p>
 
-<p align="left"> <a href="https://x.com/eurunuela" target="blank"><img src="https://img.shields.io/twitter/follow/eurunuela?logo=twitter&style=for-the-badge" alt="eurunuela" /></a> </p>
+<p align="left"> <a class="twitter-follow-button"
+  href="https://twitter.com/eurunuela"
+  data-size="large">
+Follow @eurunuela</a>
+</p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
