@@ -12,9 +12,11 @@ Eneko</a></h1>
 
 - 🔭 I’m currently a researcher at <a href="https://ucalgary.ca/labs/miplab/home" target="blank">Medical Image Processing and Machine Learning lab - University of Calgary</a>.
 
-- 🌱 I’m currently working on developing machine learning models to predict tissue outcome on acute ischemic stroke patients.
+- 🌱 I’m developing machine learning models to predict tissue outcome on acute ischemic stroke patients.
 
 - 📝 My contributions are available on <a href="https://scholar.google.com/scholar?hl=en&q=eneko+urunuela" target="blank">my Google Scholar profile</a>.
+
+- 🤝 I'm always happy to collaborate.
 
 - 💬 Ask me about **medical imaging, medical devices & machine learning**.
 
