@@ -2,11 +2,6 @@
 Eneko</a></h1>
 <h3 align="center">A passionate researcher based in Calgary, Alberta 🇨🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eurunuela&label=Profile%20views&color=0e75b6&style=flat" alt="eurunuela" /> </p>
-
-<a href="https://twitter.com/eurunuela" class="twitter-follow-button" data-show-count="false">Follow me on Twitter @eurunuela</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
