@@ -26,11 +26,11 @@ Eneko</a></h1>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/eneko-urunuela/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/eurunuela">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/enekourunuela.com">
-			<img src="https://img.icons8.com/?size=100&id=ahcTsEkPQu79&format=png&color=000000"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/enekourunuela.com">
+		<img src="https://img.icons8.com/?size=100&id=ahcTsEkPQu79&format=png&color=000000"></a>
       </div>
 
 </p>
