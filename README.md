@@ -30,7 +30,7 @@ Eneko</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/eurunuela">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/enekourunuela.com">
-		<img src="https://img.icons8.com/?size=100&id=ahcTsEkPQu79&format=png&color=000000"></a>
+		<img style="width: 40px; height: 40px" src=https://img.icons8.com/?size=100&id=3ovMFy5JDSWq&format=png&color=000000"></a>
       </div>
 
 </p>
