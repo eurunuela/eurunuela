@@ -29,7 +29,7 @@ Eneko</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/eurunuela">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://x.com/eurunuela">
+		<a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/enekourunuela.com">
 			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a>
       </div>
 
