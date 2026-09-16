@@ -16,7 +16,7 @@ Eneko</a></h1>
 
 - 📄 Learn about <a href="https://www.enekourunuela.com/conferences" target="blank">my contributions to conferences</a>
 
-- 📫 Reach me via Twitter or LinkedIn👇
+- 📫 Reach me via LinkedIn👇
 <br/>
 <h3 align="center" >Connect with me 🤝 </h3>
 
@@ -27,8 +27,6 @@ Eneko</a></h1>
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/eurunuela">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/enekourunuela.com">
-		<img style="width: 40px; height: 40px" src=https://img.icons8.com/?size=100&id=3ovMFy5JDSWq&format=png&color=000000"></a>
       </div>
 
 </p>
